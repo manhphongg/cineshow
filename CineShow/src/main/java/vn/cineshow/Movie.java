@@ -14,6 +14,7 @@ public class Movie {
     private String title;
     private String genre;
     private LocalDate releaseDate;
+    String abd;
 
     // Getters, setters, constructors (dùng Lombok nếu muốn)
 }
